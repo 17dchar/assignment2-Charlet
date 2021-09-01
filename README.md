@@ -8,7 +8,6 @@ Home is my apartment here in Maryville. I like it because it's **quiet** and **p
 
 __________________________
 
-### Section with Ordered List
 #### Directions:
 
 1. Stay in Maryville.
