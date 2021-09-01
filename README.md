@@ -12,7 +12,7 @@ __________________________
 ####Directions:
 
 1. Stay in Maryville.
-    - You're already there.
+    a. You're already there.
 2. sampletext.txt
-    - nestedItem.v2.01
-    - nestedItem.v2.02
+    a. nestedItem.v2.01
+    b. nestedItem.v2.02
