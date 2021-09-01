@@ -24,7 +24,7 @@ __________________________
 
 ___________________________
 
-###Table
+### Table
 
 Here is a table of foods you should definitely try. They are pretty exotic foods, so you'll need to be really
 adventurous.
