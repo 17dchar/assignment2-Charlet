@@ -9,10 +9,16 @@ Home is my apartment here in Maryville. I like it because it's **quiet** and **p
 __________________________
 
 ### Section with Ordered List
-####Directions:
+#### Directions:
 
 1. Stay in Maryville.
     - You're already there.
 2. sampletext.txt
     - nestedItem.v2.01
     - nestedItem.v2.02
+
+#### Things you should bring:
+
+ - You
+ - no one else
+ - computer/phone with wifi (optional)
