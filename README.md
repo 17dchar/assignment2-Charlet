@@ -41,10 +41,10 @@ ____________________________
 ### Quotes
 
 > People don't care about what someone says about you in a movie - or even what you say, right?
-- *Mark Zuckerberg*
+ \- *Mark Zuckerberg*
 
 > It was three or 4 years ago. I don't know what I said.
-- *Jessie Eisenberg as Mark Zuckerberg in a movie*
+ \- *Jessie Eisenberg as Mark Zuckerberg in a movie*
 
 
 
