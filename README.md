@@ -49,6 +49,36 @@ ____________________________
  \- *Jessie Eisenberg as Mark Zuckerberg in a movie*
 
 
+______________________________
+
+### Code Fencing
+#### Aparently there are no swords involved*
+
+#### Depth-First Search
+
+> Depth-first search (DFS) is an algorithm for traversing or searching tree or graph data structures. The algorithm
+> starts at the root node (selecting some arbitrary node as the root node in the case of a graph) and explores as
+> far as possible along each branch before backtracking.
+
+[Wikipedia "Depth-first search"](https://en.wikipedia.org/wiki/Depth-first_search)
+
+#### Implementation
+
+```
+vector<vector<int>> adj; // graph represented as an adjacency list
+int n; // number of vertices
+
+vector<bool> visited;
+
+void dfs(int v) {
+    visited[v] = true;
+    for (int u : adj[v]) {
+        if (!visited[u])
+            dfs(u);
+    }
+}
+```
+
 
 
 
