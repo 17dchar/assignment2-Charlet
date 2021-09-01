@@ -22,6 +22,19 @@ __________________________
  - no one else
  - computer/phone with wifi (optional)
 
+___________________________
+
+###Table
+
+Here is a table of foods you should definitely try. They are pretty exotic foods, so you'll need to be really
+adventurous.
+
+| Food | Where to find | Price |
+| ---- | ------------- | ----- |
+| Big Mac | McDonalds | 5$ |
+| McChicken | McDonalds | 1.50$ |
+| Sprite | McDonalds | 1$ |
+| Fries | McDonalds | 2$ |
 
 
 [About Me](aboutme.md)
