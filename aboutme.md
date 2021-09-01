@@ -7,4 +7,4 @@ into the hard stuff. I don't mind anyway, it just seems odd.
 
 Also, this is totally me I promise:
 
-![Hey it's that guy](/me.jpg)
+![Random mascot from Google](/me.jpg)
